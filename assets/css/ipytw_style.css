@@ -1,0 +1,13 @@
+.ipytw_bold {font-weight: 700;}
+.ipytw_ul {list-style-type: square; margin: 5px 0px 3px 30px;}
+.ipytw_tr {border-top-width: 2px; border-top-style: dashed; border-top-color: #e7e2e2;}
+.ipytw_textarea {width: 100%; padding: 3px 24px 3px 8px !important;}
+.ipytw_textarea::placeholder {color: #ccc; font-style: italic;}
+#ipytwbe_books_cat_arr {min-height: 280px !important;} 
+.wp-admin select {padding: 3px 24px 3px 8px !important;} /* .form-table {table-layout: fixed !important;} */
+.meta-box-sortables select {width: 100% !important;}
+.meta-box-sortables input[type="text"] {width: 100% !important;}
+.meta-box-sortables input[type="number"] {width: 100% !important;}
+.woocommerce table.form-table input[type="text"], .woocommerce table.form-table input[type="number"] {max-width: 100% !important;} 
+/* ? .woocommerce table.form-table select, убрал тк. какой то конфликт со стилями YITH WooCommerce Tab Manager Premium при активной PRO */
+#ipytw_extensions .form-table td p {font-size: 18px !important;}
